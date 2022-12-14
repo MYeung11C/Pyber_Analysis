@@ -8,7 +8,7 @@ Based on given ridesharing data and city data in CSV files, the data was used wi
 
 
 # 2.Results
-#Total Fare by city type:
+# Total Fare by city type:
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/106784501/207701966-22be59e5-9745-4cc5-a09b-59ea5a62e1b5.png)
 
 According to the data in the chart, the fare seemed to be steady over the time period in question. Rural areas not generating much revenue, where Urban did generate most of it. Suburban areas fall in between. 
